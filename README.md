@@ -3,4 +3,4 @@
 Drawing snowflakes with turtle.
 Just a simple task to practice git.
 
-Florian Fürnrohr
+Student Idm: uz82ubaq
