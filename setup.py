@@ -6,5 +6,5 @@ setup(name='snowflake',
       author='Florian Fürnohr',
       author_email='florian.fuernrohr@fau.de',
       url='https://github.com/ffue/dsss5-snowflake',
-      packages=['turtle', 'numpy'],
+      packages=['snowflake'],
      )
