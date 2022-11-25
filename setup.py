@@ -7,4 +7,5 @@ setup(name='snowflake',
       author_email='florian.fuernrohr@fau.de',
       url='https://github.com/ffue/dsss5-snowflake',
       packages=['snowflake'],
+      install_requires=['numpy', 'turtle']
      )
